@@ -18,14 +18,14 @@
 
 
 
-<h1 align="center"><p><img align="left" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewitheyeasin&show_icons=true&locale=en&layout=compact" alt="codewitheyeasin" /></p>
+<h1 align="left"><p><img align="left" width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewitheyeasin&show_icons=true&locale=en&layout=compact" alt="codewitheyeasin" /></p>
 
 <p>&nbsp;<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=codewitheyeasin&show_icons=true&locale=en" alt="codewitheyeasin" /></p> </h1>
 
-<h2 align="left"><p>&nbsp;<img  width="333" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitheyeasin&" alt="codewitheyeasin" /></p></h2>
-<br>
+<h2 align="left"><p>&nbsp;<img align="center" width="333" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitheyeasin&" alt="codewitheyeasin" /></p></h2>
 
-<h3 align="right">Social media:</h3>
+
+<h3 align="left">Social media:</h3>
 <p align="center">
-<h2 align="right"><a href="https://linkedin.com/in/md-eyeasin-arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-eyeasin-arafat" height="30" width="40" /></a>
+<h2 align="left"><a href="https://linkedin.com/in/md-eyeasin-arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-eyeasin-arafat" height="30" width="40" /></a>
 </p></h2>
