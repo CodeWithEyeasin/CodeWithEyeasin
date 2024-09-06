@@ -2,7 +2,7 @@
 <h1 align="center"><img  width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF"></h2>
 <h1 align="center">Hi 👋, I'm Md. Eyeasin Arafat</h1>
 
-<h3 align="center">I am a Software Engineering student and my crush is coding, because I can create anything I want using code</h3>
+<h3 align="center">I am a Software Engineering student and I am a flutter developer</h3>
 
 
 - 🌱 I’m currently learning **Flutter**
